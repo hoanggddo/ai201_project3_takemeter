@@ -1,5 +1,4 @@
-**stuff
-**# TakeMeter — r/smashbros Discourse Classifier
+# TakeMeter — r/smashbros Discourse Classifier
 
 A fine-tuned text classifier that evaluates discourse quality in r/smashbros by distinguishing between analytical posts, opinion posts, and help requests.
 
